@@ -67,7 +67,7 @@ AI が文言を音声モデル用のプロンプトに書き起こし、あな�
 ## 入れ方
 
 > [!IMPORTANT]
-> 音を作るのは **[Comfy Desktop](https://www.comfy.org/download)**（ComfyUI）です。先に入れて、一度起動しておいてください。
+> 音を作るのは **[Comfy Desktop](https://www.comfy.org/download)**（ComfyUI）です。先に入れて一度起動し、初回のセットアップを済ませてください（そのあとは閉じていて構いません）。
 > NVIDIA の GPU（VRAM 8GB 以上、Stable Audio 3 は 10GB 前後）を想定しています。
 
 1. [最新版](../../releases/latest) から **`NSSoundMaker-setup-<版>.exe`** を落として実行
