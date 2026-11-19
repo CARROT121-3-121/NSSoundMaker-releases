@@ -9,9 +9,9 @@
 「雑魚敵との戦闘開始」「洞窟の水滴」「決定ボタン」——短い文言から、ゲームや動画に使う **BGM・環境音・効果音** を作ります。
 AI が文言を音声モデル用のプロンプトに書き起こし、あなたの PC の ComfyUI が音にします。
 
-[![最新版](https://img.shields.io/github/v/release/CARROT121-3-121/NSSoundMaker-releases?label=%E6%9C%80%E6%96%B0%E7%89%88&color=2a8dc0)](../../releases/latest)
-![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-5b7fa6)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-Desktop-8a7fb0)
+[![最新版](https://img.shields.io/github/v/release/CARROT121-3-121/NSSoundMaker-releases?label=%E6%9C%80%E6%96%B0%E7%89%88&color=1f1d1b)](../../releases/latest)
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-6f6a62)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-Desktop-a39d93)
 
 [**ダウンロード**](../../releases/latest) · [入れ方](#入れ方) · [できること](#できること) · [よくある質問](#よくある質問)
 
